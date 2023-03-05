@@ -133,6 +133,9 @@ ul.d-block {
     width: 100%;
 }
 
+.d-block {
+    display: block; 
+}
 
 /* Home */
 
